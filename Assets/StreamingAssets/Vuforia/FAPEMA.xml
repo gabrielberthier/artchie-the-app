@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="barco-amarelo-min" size="0.500000 0.215901" />
+    <ImageTarget name="barco" size="0.250000 0.162020" />
+    <ImageTarget name="findjoy" size="0.150000 0.168359" />
+    <ImageTarget name="egyptart" size="0.200000 0.153061" />
+  </Tracking>
+</QCARConfig>
